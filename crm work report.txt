@@ -1,0 +1,56 @@
+CRM:
+
+CRM Software is used to maintain customer relationship and interactions with customers and potential customers,its provides centralised system for managing customer data and insights, its also helps to make decisions in product development , marketing , sales. 
+
+there are also some benefits using CRM software they are ;
+
+1. improved customer realtionships
+2. increased efficiency 
+3. better making decision 
+4. increased sales
+5.improved collabration 
+
+
+CRM software is not affordable all companies it is useful only for large scale industries , there are so many industries used CRM software they are ;
+
+1. why manufaturing industry use crm
+	a)high quality leads -------> improved sales processes
+	b)Better sales performance-----> increasing sales, improving customer service, and long-term growth.
+	c)imporve customer service------> keeping track of any warranty, repair, or service issues, inquiries, and service calls, resulting  for customers.
+	d)Greater supply chain visibility----> operations, inventory management, order processing, warehousing, and distribution chains. 
+	e)Simplify and optimize manufacturing with Speridian 
+
+2. why health industry use crm
+	a)Database Management  ----> customer record is managed efficiently 
+	b)Customer Service    ------> tickets based on the priority level
+	c)Collaboration Tools ------>Emails, Calendars, Notes, Call Logs, Documents, 
+	d)Customer Portal    -------> customers to effortlessly interact directly with the right team.
+
+
+3. financial servises
+4. retail industry
+5. banking 
+	a)Boosted Sales
+	b)Increased Lead Conversion
+	c)Personalized Customer Journeys
+	d)Increased Productivity
+	e)More Efficient Communication
+	f)Inter-Department Data Tracking
+	g)Better Service
+	h)Improved Customer Experience
+	i)Increased Customer Loyalty
+
+6. agriculture 
+
+There are so many software available but which one is suitable for your companies ,there are so many factoriea inclded like budget,quality and assurance ...so on ...
+
+Here are some of the CRM softwares are;
+
+1.Zendesk
+2.Oracle CRM
+3. ZOHO CRM 
+4. MICROSOFT DYNAMICS CRM 
+5. SAP CRM
+6. SALES FORCE CRM 
+7.PIPE DRIVE CRM
+
